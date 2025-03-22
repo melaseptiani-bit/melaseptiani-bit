@@ -1,5 +1,5 @@
 # 💫 About Me:
-Mobile Dev | Flutter & Android<br>Coffee + Code = Happiness<br>Always learning & open to collaboration
+Coffee + Code = Happiness<br>Always learning & open to collaboration
 
 
 ## 🌐 Socials:
